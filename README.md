@@ -8,7 +8,7 @@ Objective:
 
 To apply data visualization, mining algorithms, and check the model with best accuracy- the one that is able to predict the 'Feature' of the pokemon.
 
-Files:
+Procedure:
 
 - Dataset.jpg illustrates all column values and types. The dataset can be found in Kaggle, if you intent to try the same project.
 - Pokemon.ipynb file has all the required code for summarizing the objective.
@@ -16,3 +16,4 @@ Files:
 - Pre-processing.jpg exhibits all the model accuracy after applying various techniques on the data.
 - Results.jpg concludes the objective and the problem statement defined.
 
+Thank You!
